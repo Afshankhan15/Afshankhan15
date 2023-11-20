@@ -12,7 +12,6 @@
 - 🥋 I'm very Passionate for Programming and Problem-Solving.
 - 📘 I’m Currently learning and doing Projects on **𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐦𝐞𝐧𝐭**
 - 📫 How to reach me **afshankhan252@gmail.com**
-- 🔗 Connect Me on [**Linkedin**](https://www.linkedin.com/in/afshan-khan252/)
 
 ## 🏆 Achievements
 
@@ -60,7 +59,6 @@
 ## 📧 Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/afshan-khan252" target="_main"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 [![Gmail](https://img.icons8.com/fluent/48/000000/gmail.png)](mailto:afshankhan252@gmail.com)
 </p>
 
